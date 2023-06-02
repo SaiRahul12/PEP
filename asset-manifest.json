@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PEP/static/css/main.cc732583.css",
+    "main.js": "/PEP/static/js/main.42f9f3f6.js",
+    "static/media/frame-6@3x.png": "/PEP/static/media/frame-6@3x.430c7547cfb1a8adf742.png",
+    "index.html": "/PEP/index.html",
+    "main.cc732583.css.map": "/PEP/static/css/main.cc732583.css.map",
+    "main.42f9f3f6.js.map": "/PEP/static/js/main.42f9f3f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc732583.css",
+    "static/js/main.42f9f3f6.js"
+  ]
+}
